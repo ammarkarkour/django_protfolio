@@ -27,3 +27,8 @@ python manage.py runserver
 ```
 Enjoy! ```http://127.0.0.1:8000/```
 
+![personal_website](https://user-images.githubusercontent.com/43296450/177018518-62d92cca-31f0-489b-9033-ebfebdead08e.png)
+
+
+
+
